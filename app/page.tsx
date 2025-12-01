@@ -64,7 +64,7 @@ export default function HomePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1519167758481-83f29da8c686?w=1920&q=80)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=1920&q=80)',
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/80" />
